@@ -8,3 +8,5 @@ class Solution:
             needlelen += 1
 
         return -1
+
+        
